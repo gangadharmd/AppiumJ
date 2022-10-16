@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="23628" started-at="2022-09-20T18:13:22Z" finished-at="2022-09-20T18:13:46Z">
+    <groups>
+    </groups>
+    <test name="AppiumJ" duration-ms="23628" started-at="2022-09-20T18:13:22Z" finished-at="2022-09-20T18:13:46Z">
+      <class name="com.appium.AppiumBasics">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:com.appium.AppiumBasics@22f71333]" name="initializeDriver" is-config="true" duration-ms="15493" started-at="2022-09-20T18:13:22Z" finished-at="2022-09-20T18:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeDriver -->
+        <test-method status="PASS" signature="apiumTest()[pri:0, instance:com.appium.AppiumBasics@22f71333]" name="apiumTest" duration-ms="6988" started-at="2022-09-20T18:13:37Z" finished-at="2022-09-20T18:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiumTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.appium.AppiumBasics@22f71333]" name="tearDown" is-config="true" duration-ms="1105" started-at="2022-09-20T18:13:44Z" finished-at="2022-09-20T18:13:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.appium.AppiumBasics -->
+    </test> <!-- AppiumJ -->
+  </suite> <!-- Default Suite -->
+</testng-results>
